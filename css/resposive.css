@@ -1,0 +1,13 @@
+@media(max-width:1024px){
+    .form-wrapper{
+        flex-direction: column;
+    }
+   
+}
+@media(max-width:1024px){
+    .right-block{
+        max-width: 720px;
+        width: 100%;
+    }
+}
+    
